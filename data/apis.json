@@ -117,6 +117,7 @@
     { "categoria": "Vehículos", "nombre": "NHTSA", "url": "https://vpic.nhtsa.dot.gov/api/", "descripcion": "Datos de vehículos por VIN.", "auth": "No", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Videos", "nombre": "Dailymotion", "url": "https://developers.dailymotion.com/", "descripcion": "Vídeos y canales.", "auth": "OAuth", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Videos", "nombre": "YouTube Data API", "url": "https://developers.google.com/youtube/v3", "descripcion": "Vídeos, canales y playlists de YouTube.", "auth": "apiKey", "https": "Sí", "cors": "No" },
+    { "categoria": "Otros", "nombre": "Bucketlist.nl Dream of the Day", "url": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json", "descripcion": "Una idea diaria para viajes y experiencias; respuesta principal en neerlandés.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Otros", "nombre": "Data USA", "url": "https://datausa.io/about/api/", "descripcion": "Datos públicos de EE. UU.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Otros", "nombre": "NASA", "url": "https://api.nasa.gov/", "descripcion": "Imágenes y datos de la NASA.", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
     { "categoria": "Otros", "nombre": "SpaceX", "url": "https://github.com/r-spacex/SpaceX-API", "descripcion": "Lanzamientos y cápsulas de SpaceX.", "auth": "No", "https": "Sí", "cors": "Sí" },
