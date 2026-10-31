@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/LopezDev7/public-apis-es?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Lista curada de **APIs públicas y gratuitas** documentadas en español, con **97 APIs** organizadas en **23 categorías**.
+Lista curada de **APIs públicas y gratuitas** documentadas en español, con **98 APIs** organizadas en **23 categorías**.
 
 Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus proyectos, demos y side projects. No listamos APIs que pidan pagar por empezar.
 
@@ -246,6 +246,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 
 | Nombre | Descripción | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Una idea diaria para viajes y experiencias; respuesta principal en neerlandés. | No | Sí | Sí |
 | [Data USA](https://datausa.io/about/api/) | Datos públicos de EE. UU. | No | Sí | Sí |
 | [NASA](https://api.nasa.gov/) | Imágenes y datos de la NASA. | apiKey | Sí | Sí |
 | [SpaceX](https://github.com/r-spacex/SpaceX-API) | Lanzamientos y cápsulas de SpaceX. | No | Sí | Sí |
