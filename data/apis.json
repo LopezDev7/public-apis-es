@@ -69,6 +69,7 @@
     { "categoria": "Educación", "nombre": "University Domains", "url": "http://universities.hipolabs.com/", "descripcion": "Dominios de universidades del mundo.", "auth": "No", "https": "No", "cors": "Desconocido" },
     { "categoria": "Educación", "nombre": "Wikipedia", "url": "https://www.mediawiki.org/wiki/API", "descripcion": "La enciclopedia, por API.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Educación", "nombre": "Wiktionary", "url": "https://www.mediawiki.org/wiki/API", "descripcion": "Diccionario colaborativo multilingüe.", "auth": "No", "https": "Sí", "cors": "Sí" },
+    { "categoria": "Finanzas", "nombre": "SiftingIO", "url": "https://sifting.io/docs", "descripcion": "Precios en tiempo real e históricos de acciones y ETF de EE. UU., divisas, materias primas y cripto; REST/WebSocket y plan gratuito limitado para uso no comercial.", "auth": "apiKey", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Finanzas", "nombre": "Alpha Vantage", "url": "https://www.alphavantage.co/", "descripcion": "Bolsa y criptomonedas en tiempo real.", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
     { "categoria": "Finanzas", "nombre": "ExchangeRate-API", "url": "https://www.exchangerate-api.com/", "descripcion": "Tipos de cambio de divisas.", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
     { "categoria": "Finanzas", "nombre": "Frankfurter", "url": "https://www.frankfurter.app/", "descripcion": "Tipos de cambio con datos del BCE.", "auth": "No", "https": "Sí", "cors": "Sí" },

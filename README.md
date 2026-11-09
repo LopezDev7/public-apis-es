@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/LopezDev7/public-apis-es?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Lista curada de **APIs públicas y gratuitas** documentadas en español, con **97 APIs** organizadas en **23 categorías**.
+Lista curada de **APIs públicas y gratuitas** documentadas en español, con **98 APIs** organizadas en **23 categorías**.
 
 Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus proyectos, demos y side projects. No listamos APIs que pidan pagar por empezar.
 
@@ -137,6 +137,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | [ExchangeRate-API](https://www.exchangerate-api.com/) | Tipos de cambio de divisas. | apiKey | Sí | Sí |
 | [Frankfurter](https://www.frankfurter.app/) | Tipos de cambio con datos del BCE. | No | Sí | Sí |
 | [OpenExchangeRates](https://openexchangerates.org/) | Tipos de cambio históricos. | apiKey | Sí | Sí |
+| [SiftingIO](https://sifting.io/docs) | Precios en tiempo real e históricos de acciones y ETF de EE. UU., divisas, materias primas y cripto; REST/WebSocket y plan gratuito limitado para uso no comercial. | apiKey | Sí | Desconocido |
 
 ### Geografía
 
