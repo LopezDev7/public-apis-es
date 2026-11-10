@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/LopezDev7/public-apis-es?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Lista curada de **APIs públicas y gratuitas** documentadas en español, con **97 APIs** organizadas en **23 categorías**.
+Lista curada de **APIs públicas y gratuitas** documentadas en español, con **98 APIs** organizadas en **23 categorías**.
 
 Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus proyectos, demos y side projects. No listamos APIs que pidan pagar por empezar.
 
@@ -96,6 +96,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 
 | Nombre | Descripción | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [CurlShot](https://curlshot.com/docs) | Capturas de pantalla de webs en PNG, JPEG, WebP o PDF (100 gratis al mes). | apiKey | Sí | Sí |
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Imágenes de Docker. | No | Sí | Sí |
 | [GitHub API](https://docs.github.com/rest) | Todo lo que hace GitHub, por API. | No | Sí | Sí |
 | [GitLab API](https://docs.gitlab.com/ee/api/) | Gestión de proyectos en GitLab. | No | Sí | Sí |

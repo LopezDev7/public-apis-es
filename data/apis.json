@@ -47,6 +47,7 @@
     { "categoria": "Datos abiertos (Colombia)", "nombre": "Datos Abiertos Colombia", "url": "https://datos.gov.co/", "descripcion": "Portal oficial de datos abiertos del Gobierno de Colombia.", "auth": "No", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Datos abiertos (Colombia)", "nombre": "Datos Abiertos Bogotá", "url": "https://datosabiertos.bogota.gov.co/", "descripcion": "Datos abiertos de la ciudad de Bogotá.", "auth": "No", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Datos abiertos (Colombia)", "nombre": "DANE", "url": "https://www.dane.gov.co/", "descripcion": "Cifras oficiales de población, economía y más en Colombia.", "auth": "No", "https": "Sí", "cors": "Desconocido" },
+    { "categoria": "Desarrollo", "nombre": "CurlShot", "url": "https://curlshot.com/docs", "descripcion": "Capturas de pantalla de webs en PNG, JPEG, WebP o PDF (100 gratis al mes).", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "Docker Hub", "url": "https://docs.docker.com/docker-hub/api/latest/", "descripcion": "Imágenes de Docker.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "GitHub API", "url": "https://docs.github.com/rest", "descripcion": "Todo lo que hace GitHub, por API.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "GitLab API", "url": "https://docs.gitlab.com/ee/api/", "descripcion": "Gestión de proyectos en GitLab.", "auth": "No", "https": "Sí", "cors": "Sí" },
