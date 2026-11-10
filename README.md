@@ -138,6 +138,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | [ExchangeRate-API](https://www.exchangerate-api.com/) | Tipos de cambio de divisas. | apiKey | Sí | Sí |
 | [Frankfurter](https://www.frankfurter.app/) | Tipos de cambio con datos del BCE. | No | Sí | Sí |
 | [OpenExchangeRates](https://openexchangerates.org/) | Tipos de cambio históricos. | apiKey | Sí | Sí |
+| [SiftingIO](https://sifting.io/docs) | Precios en tiempo real e históricos de acciones y ETF de EE. UU., divisas, materias primas y cripto; REST/WebSocket y plan gratuito limitado para uso no comercial. | apiKey | Sí | Desconocido |
 
 ### Geografía
 
