@@ -187,6 +187,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | [iTunes Search](https://developer.apple.com/documentation/itunessearchapi) | Búsqueda en iTunes y App Store. | No | Sí | Sí |
 | [Last.fm](https://www.last.fm/api) | Datos de música y artistas. | apiKey | Sí | No |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | Letras de canciones. | No | Sí | Sí |
+| [No Stairs Please](https://nostairsplease.com/mcp) | Directorio de salas de música en vivo (<400 aforo) y servidor MCP. | No | Sí | Sí |
 | [Spotify](https://developer.spotify.com/) | Música, playlists y podcasts. | OAuth | Sí | Sí |
 
 ### Noticias
