@@ -119,6 +119,7 @@
     { "categoria": "Vehículos", "nombre": "NHTSA", "url": "https://vpic.nhtsa.dot.gov/api/", "descripcion": "Datos de vehículos por VIN.", "auth": "No", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Videos", "nombre": "Dailymotion", "url": "https://developers.dailymotion.com/", "descripcion": "Vídeos y canales.", "auth": "OAuth", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Videos", "nombre": "YouTube Data API", "url": "https://developers.google.com/youtube/v3", "descripcion": "Vídeos, canales y playlists de YouTube.", "auth": "apiKey", "https": "Sí", "cors": "No" },
+    { "categoria": "Otros", "nombre": "Astroletra", "url": "https://astroletra.com/datos/api/", "descripcion": "Cielo del día con efemérides JPL DE440: fase y signo de la Luna, aspectos exactos con hora local, retrógrados y próxima lunación.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Otros", "nombre": "Data USA", "url": "https://datausa.io/about/api/", "descripcion": "Datos públicos de EE. UU.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Otros", "nombre": "NASA", "url": "https://api.nasa.gov/", "descripcion": "Imágenes y datos de la NASA.", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
     { "categoria": "Otros", "nombre": "SpaceX", "url": "https://github.com/r-spacex/SpaceX-API", "descripcion": "Lanzamientos y cápsulas de SpaceX.", "auth": "No", "https": "Sí", "cors": "Sí" },
