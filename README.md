@@ -242,6 +242,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | Nombre | Descripción | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Dailymotion](https://developers.dailymotion.com/) | Vídeos y canales. | OAuth | Sí | Desconocido |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/docs) | Transcripciones de vídeos de YouTube con marcas de tiempo, en cualquier idioma de subtítulos. | apiKey | Sí | Desconocido |
 | [YouTube Data API](https://developers.google.com/youtube/v3) | Vídeos, canales y playlists de YouTube. | apiKey | Sí | No |
 
 ### Otros
