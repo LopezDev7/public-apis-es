@@ -118,6 +118,7 @@
     { "categoria": "Transporte", "nombre": "EMT Madrid", "url": "https://apidocs.emtmadrid.es/", "descripcion": "Transportes públicos de Madrid.", "auth": "apiKey", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Vehículos", "nombre": "NHTSA", "url": "https://vpic.nhtsa.dot.gov/api/", "descripcion": "Datos de vehículos por VIN.", "auth": "No", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Videos", "nombre": "Dailymotion", "url": "https://developers.dailymotion.com/", "descripcion": "Vídeos y canales.", "auth": "OAuth", "https": "Sí", "cors": "Desconocido" },
+    { "categoria": "Videos", "nombre": "GetYouTubeTranscript", "url": "https://getyoutubetranscript.com/docs", "descripcion": "Transcripciones de vídeos de YouTube con marcas de tiempo, en cualquier idioma de subtítulos.", "auth": "apiKey", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Videos", "nombre": "YouTube Data API", "url": "https://developers.google.com/youtube/v3", "descripcion": "Vídeos, canales y playlists de YouTube.", "auth": "apiKey", "https": "Sí", "cors": "No" },
     { "categoria": "Otros", "nombre": "Data USA", "url": "https://datausa.io/about/api/", "descripcion": "Datos públicos de EE. UU.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Otros", "nombre": "NASA", "url": "https://api.nasa.gov/", "descripcion": "Imágenes y datos de la NASA.", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
