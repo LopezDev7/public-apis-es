@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/LopezDev7/public-apis-es?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Lista curada de **APIs públicas y gratuitas** documentadas en español, con **98 APIs** organizadas en **23 categorías**.
+Lista curada de **APIs públicas y gratuitas** documentadas en español, con **99 APIs** organizadas en **23 categorías**.
 
 Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus proyectos, demos y side projects. No listamos APIs que pidan pagar por empezar.
 
