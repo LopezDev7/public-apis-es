@@ -101,6 +101,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | [GitHub API](https://docs.github.com/rest) | Todo lo que hace GitHub, por API. | No | Sí | Sí |
 | [GitLab API](https://docs.gitlab.com/ee/api/) | Gestión de proyectos en GitLab. | No | Sí | Sí |
 | [HispAPI](https://github.com/LopezDev7/hisp-api) | Datos falsos en español: usuarios, direcciones, productos, refranes y más. | No | Sí | Sí |
+| [Hola Mundo API](https://vorodev.com/api/holamundo/docs/) | Saludo "Hola mundo" en 10 idiomas (incluidos catalán, euskera, gallego y valenciano) en JSON. | No | Sí | Sí |
 | [httpbin](https://httpbin.org/) | Endpoints de prueba para peticiones HTTP. | No | Sí | Sí |
 | [ip-api.com](http://ip-api.com/) | Geolocalización por IP (gratis solo HTTP). | No | No | No |
 | [IPify](https://api.ipify.org/) | Tu IP pública, en un JSON. | No | Sí | Sí |
