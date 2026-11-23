@@ -51,6 +51,7 @@
     { "categoria": "Desarrollo", "nombre": "Docker Hub", "url": "https://docs.docker.com/docker-hub/api/latest/", "descripcion": "Imágenes de Docker.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "GitHub API", "url": "https://docs.github.com/rest", "descripcion": "Todo lo que hace GitHub, por API.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "GitLab API", "url": "https://docs.gitlab.com/ee/api/", "descripcion": "Gestión de proyectos en GitLab.", "auth": "No", "https": "Sí", "cors": "Sí" },
+    { "categoria": "Desarrollo", "nombre": "Hola Mundo API", "url": "https://vorodev.com/api/holamundo/docs", "descripcion": "Saludo \"Hola mundo\" en 10 idiomas y 4 variantes tipográficas en JSON.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "httpbin", "url": "https://httpbin.org/", "descripcion": "Endpoints de prueba para peticiones HTTP.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Desarrollo", "nombre": "ip-api.com", "url": "http://ip-api.com/", "descripcion": "Geolocalización por IP (gratis solo HTTP).", "auth": "No", "https": "No", "cors": "No" },
     { "categoria": "Desarrollo", "nombre": "IPify", "url": "https://api.ipify.org/", "descripcion": "Tu IP pública, en un JSON.", "auth": "No", "https": "Sí", "cors": "Sí" },
