@@ -119,6 +119,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | [Football-Data.org](https://www.football-data.org/) | Datos de fútbol europeo. | apiKey | Sí | No |
 | [MLB Stats API](https://statsapi.mlb.com/) | Estadísticas de las Grandes Ligas. | No | Sí | No |
 | [TheSportsDB](https://www.thesportsdb.com/) | Deportes, ligas y equipos. | apiKey | Sí | Sí |
+| [Tennis Scores API (Public Records)](https://apify.com/publicrecords/tennis-scores-api) | Marcadores, resultados y clasificaciones ATP y WTA (Actor de Apify, solo API; sin MCP). | apiKey | Sí | No |
 
 ### Educación
 
