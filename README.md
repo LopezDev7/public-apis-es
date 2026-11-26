@@ -6,7 +6,7 @@
 ![Licencia](https://img.shields.io/github/license/LopezDev7/public-apis-es?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-Lista curada de **APIs públicas y gratuitas** documentadas en español, con **99 APIs** organizadas en **23 categorías**.
+Lista curada de **APIs públicas y gratuitas** documentadas en español, con **100 APIs** organizadas en **23 categorías**.
 
 Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus proyectos, demos y side projects. No listamos APIs que pidan pagar por empezar.
 
@@ -135,6 +135,7 @@ Sin clave, con clave gratuita o con OAuth: aquí tienes APIs reales para tus pro
 | Nombre | Descripción | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Alpha Vantage](https://www.alphavantage.co/) | Bolsa y criptomonedas en tiempo real. | apiKey | Sí | Sí |
+| [Cambio Uruguay](https://cambio-uruguay.com/desarrolladores) | Cotizaciones de compra y venta de 45 casas de cambio y bancos de Uruguay y del BCU, con histórico. | No | Sí | Sí |
 | [ExchangeRate-API](https://www.exchangerate-api.com/) | Tipos de cambio de divisas. | apiKey | Sí | Sí |
 | [Frankfurter](https://www.frankfurter.app/) | Tipos de cambio con datos del BCE. | No | Sí | Sí |
 | [OpenExchangeRates](https://openexchangerates.org/) | Tipos de cambio históricos. | apiKey | Sí | Sí |
