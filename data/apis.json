@@ -75,6 +75,7 @@
     { "categoria": "Finanzas", "nombre": "ExchangeRate-API", "url": "https://www.exchangerate-api.com/", "descripcion": "Tipos de cambio de divisas.", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
     { "categoria": "Finanzas", "nombre": "Frankfurter", "url": "https://www.frankfurter.app/", "descripcion": "Tipos de cambio con datos del BCE.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Finanzas", "nombre": "OpenExchangeRates", "url": "https://openexchangerates.org/", "descripcion": "Tipos de cambio históricos.", "auth": "apiKey", "https": "Sí", "cors": "Sí" },
+    { "categoria": "Finanzas", "nombre": "Cambio Uruguay", "url": "https://cambio-uruguay.com/desarrolladores", "descripcion": "Cotizaciones de compra y venta de 45 casas de cambio y bancos de Uruguay y del BCU, con histórico.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Geografía", "nombre": "GeoDB Cities", "url": "https://rapidapi.com/wirefreethought/api/geodb-cities/", "descripcion": "Ciudades y países de todo el mundo.", "auth": "apiKey", "https": "Sí", "cors": "Desconocido" },
     { "categoria": "Geografía", "nombre": "Nominatim", "url": "https://nominatim.org/", "descripcion": "Geocodificación desde OpenStreetMap.", "auth": "No", "https": "Sí", "cors": "Sí" },
     { "categoria": "Geografía", "nombre": "REST Countries", "url": "https://restcountries.com/", "descripcion": "Información de todos los países.", "auth": "No", "https": "Sí", "cors": "Sí" },
